@@ -5,6 +5,8 @@
 **_Quantum Computer Music: Foundations and Initial Experiments_**
 by Eduardo R. Miranda and Suchitra T. Basak
 
+https://arxiv.org/abs/2110.12408
+
 (a) These demonstration are implemented in IBM Q's Qiskit. (https://qiskit.org/)
 
 (b) To listen to the music you need run this Notebook alongside "MusicPatch.maxpat". Open the patch provided and make sure it plays musical notes on your computer. This patch sends out MIDI notes to your machine's default MIDI device, via UDP.
